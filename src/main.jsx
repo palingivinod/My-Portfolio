@@ -7,8 +7,8 @@ import Layout from './Layout.jsx'
 import Contact from './components/Contact.jsx'
 import Home from './components/Home.jsx'
 import Education from './components/Education.jsx'
-import Certifications from './components/certifications.jsx'
-import Publications from './components/publications.jsx'
+import Certifications from './components/Certifications.jsx'
+import Publications from './components/Publications.jsx'
 import Projects from './components/projects.jsx'
 
 const router = createBrowserRouter(createRoutesFromElements(
