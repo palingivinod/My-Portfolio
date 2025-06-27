@@ -129,12 +129,12 @@ const Contact = () => {
                 <div className="overflow-hidden">
                   <h2 className="text-sm sm:text-base md:text-lg font-semibold text-cyan-100 mb-1">LinkedIn</h2>
                   <a 
-                    href="https://linkedin.com/in/palingivinod" 
+                    href="https://linkedin.com/in/palingi-vinod" 
                     target="_blank" 
                     rel="noreferrer"
                     className="text-sm sm:text-base md:text-lg text-white hover:underline font-medium truncate block"
                   >
-                    linkedin.com/in/palingivinod
+                    linkedin.com/in/palingi-vinod
                   </a>
                 </div>
               </div>
