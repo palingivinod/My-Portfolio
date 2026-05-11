@@ -7,6 +7,11 @@ const Projects = () => {
       githubLink: 'https://github.com/palingivinod/SpamSmsDetection.git',
       tech: 'Python, NLP'
     },
+     {
+      title: 'RAG Chat Application',
+      githubLink: 'https://github.com/palingivinod/rag-chat-app.git',
+      tech: 'Python, Langgraph,Langchain,VectorDB'
+    },
     {
       title: 'TODO LIST',
       githubLink: 'https://github.com/palingivinod/Todo-List.git',
@@ -14,13 +19,19 @@ const Projects = () => {
     },
     {
       title: 'DESKTOP VIRTUAL ASSISTANT',
-      githubLink: ' ',
-      tech: 'Python, Speech Recognition'
+      githubLink: 'https://github.com/palingivinod/MajorProject.git',
+      tech: 'Python, Speech Recognition, NLP, LLM'
     },
     {
-      title: 'Exhaustive-Analysis-of-Indian-Agriculture',
-      githubLink: 'https://github.com/palingivinod/Exhaustive-Analysis-of-Indian-Agriculture.git',
-      tech: 'Powerbi'
+      title: 'Web App for ML Model Comparison',
+      githubLink: 'https://github.com/palingivinod/Web-app-for-ml-model-comparison.git',
+      tech: 'Python, ML'
+    },
+    {
+      title: 'TermiX A java custom library',
+      jitpack: 'https://jitpack.io/#palingivinod/TermiX',
+      github: 'https://github.com/palingivinod/TermiX.git',
+      tech: 'java'
     },
   ];
 
