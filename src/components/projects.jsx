@@ -30,7 +30,7 @@ const Projects = () => {
     {
       title: 'TermiX A java custom library',
       jitpack: 'https://jitpack.io/#palingivinod/TermiX',
-      github: 'https://github.com/palingivinod/TermiX.git',
+      githubLink: 'https://github.com/palingivinod/TermiX.git',
       tech: 'java'
     },
   ];
