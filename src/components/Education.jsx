@@ -17,7 +17,7 @@ const Education = () => {
           </div>
           <p className="text-gray-300 mb-2">MVGR College of Engineering, Vizianagaram</p>
           <p className="text-gray-200 font-medium mt-4">
-            CGPA: <span className="text-yellow-400">8.34</span> (Pursuing)
+            CGPA: <span className="text-yellow-400">8.42</span> (Pursuing)
           </p>
           <div className="mt-auto pt-4 border-t border-gray-600"> 
             <p className="text-sm text-gray-200">2022 - Present</p>
